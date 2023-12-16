@@ -1,0 +1,31 @@
+  @import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400;600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400;600&family=Montserrat:wght@600&display=swap');
+/* RESET */
+*{
+  box-sizing: border-box;
+}
+html {
+font-family: 'Kalnia', sans-serif;
+}
+body{
+margin: 0;
+}
+h1, h2, h3, p, ul {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+button{
+  border: none;
+cursor: pointer;
+margin: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 20px;
+background-color: blueviolet;
+color: blanchedalmond;
+justify-content: center;
+align-items: center;
+}
